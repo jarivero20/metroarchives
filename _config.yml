@@ -2,8 +2,8 @@
 # SITE SETTINGS: edit the three lines marked CHANGE ME.
 # ------------------------------------------------------------
 
-title: "Title of Our Archive"          # CHANGE ME: the name of your archive
-team: "Our Team Name"                  # CHANGE ME: your team name
+title: "Impact of Mega-events on Los Angeles Public Transportation"          # CHANGE ME: the name of your archive
+team: "C&J"                  # CHANGE ME: your team name
 description: "One sentence about what this archive collects and why."
 course: "DH 150, UCLA"
 accent_color: "#0b5d7a"                # optional: any hex color for links and buttons
