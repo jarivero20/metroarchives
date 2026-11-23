@@ -10,7 +10,7 @@ accent_color: "#0b5d7a"                # optional: any hex color for links and b
 
 # IMPORTANT. CHANGE ME: put a slash, then your repository name exactly.
 # Example: if your repository is called dh150-red-team, write "/dh150-red-team"
-baseurl: "/YOUR-REPOSITORY-NAME"
+baseurl: "/metro-archives-dh150"
 url: ""
 
 # ------------------------------------------------------------
